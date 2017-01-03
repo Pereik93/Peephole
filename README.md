@@ -9,4 +9,9 @@ Welcome to Peephole. This is a bachelor project by Jens Vinge, Per Olav Eikrem a
 
 ### How do I get set up? ###
 
-* If you have any questions, please contact Ole-Martin at olemartinbratteberg@gmail.com
+* Install the latest version of Visual Studio Community
+* Open the project via Visual Studio
+* Load NuGet Packages
+* Allow SSL certificate
+* In solution explorer, navigate to the Frontpage project
+* Open Index.html and run in browser
